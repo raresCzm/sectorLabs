@@ -1,0 +1,7 @@
+{
+    "searchTestData": {
+      "expectedLocation": "Rome, Italy",
+      "expectedAdults": 2,
+      "expectedChildren": 1
+    }
+  }
